@@ -17,3 +17,8 @@ To perform the analysis, we collect stock data of 40 companies from S&P list com
 
 ## General Model
 
+![Screen Shot 0031-04-21 at 21 49 01](https://user-images.githubusercontent.com/49817101/56478721-5919d480-647f-11e9-8f2a-5c7fdd7c27d9.png)
+
+## Model Implementation 
+
+
