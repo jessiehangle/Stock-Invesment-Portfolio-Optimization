@@ -23,4 +23,5 @@ To perform the analysis, we collect stock data of 40 companies from S&P list com
 
 ![Screen Shot 0031-04-21 at 21 51 59](https://user-images.githubusercontent.com/49817101/56478806-d34a5900-647f-11e9-9a74-526e2c09d18c.png)
 ![Screen Shot 0031-04-21 at 21 52 14](https://user-images.githubusercontent.com/49817101/56478808-d5acb300-647f-11e9-94f0-6e6fc8b488e6.png)
+![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/56478868-1d333f00-6480-11e9-9a84-612e31a5bc83.png)
 
