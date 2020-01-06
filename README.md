@@ -1,6 +1,6 @@
 # Stock Investment Portfolio Optimization 
 
-#### Tools: R (quantmod, ggplot2), Simulated Annualing K-means Clustering optimizating algorithm, Decision Tree 
+#### Tools: R (quantmod, ggplot2), Simulated Annualing K-means Clustering, Decision Tree 
 
 ## Goal of the Project
 Phoenix Fund is establishing a stock investment portfolio for company ABC. which considers invest $4million US dollars only in S&P 500 companies. Phoenix Fund will choose 40 stocks to invest and only consider buying or selling these stocks during the three-year-long investment period. The decision of buying and selling will based on the result of scenario tree with the predication on the economy of the United States and the network optimization to maximize the total revenue generated from the stock investment portfolio. Finally, there will be eight investment portfolios for different conditions and predictions. At the same time, to lower the risk, the stocks to be chosen are divides into two groups: better performance in good economy (positive beta compared to SP500 index-SPY) (Group 1) and better performance in bad economy (negative beta compared to SPY) (Group 2). The observations are extracted from the stock market in 2018. Based on the predictions and results, Phoenix Fund is able to make some decisions for the investment in 2019, 2020, 2021 and 2022 in the U.S. stock market.
