@@ -1,5 +1,3 @@
-# Stock Investment Portfolio Optimization 
-
 #### Tools: R (quantmod, ggplot2), Simulated Annualing K-means Clustering, Decision Tree 
 
 ## Goal of the Project
