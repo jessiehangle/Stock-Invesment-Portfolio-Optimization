@@ -31,6 +31,7 @@ The detail result for the first scenario is as bellow:
 Hence,	we	decide	to	search	for	the	primal	bound	for	the	maximization	by	finding	a	feasible	solution	which	can generate	an	objective	value	that	slightly	less	than the	objective	value	without	any	integer	constraint.
 
 Scenario	1	summary
+
 ![](https://user-images.githubusercontent.com/49817101/71846619-075ebc00-3099-11ea-9091-d3de0c55a6f4.PNG)
 
 ![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/56478868-1d333f00-6480-11e9-9a84-612e31a5bc83.png)
