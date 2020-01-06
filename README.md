@@ -27,13 +27,18 @@ We choose R studio to implement our model. Stock price were generated from speci
 The detail result for the first scenario is as bellow: 
 ![Screen Shot 0031-04-21 at 21 51 59](https://user-images.githubusercontent.com/49817101/56478806-d34a5900-647f-11e9-9a74-526e2c09d18c.png)
 
-*	Since	there	are	200	integer	variables	in	this	problem,	including	X0,	S1,	B1,	S2	and	B2,	which	increase	the	difficulty	of	finding	an	optimal	solution.	However,	with	all	the	methods	we	learned,	we	are	not	able	to	find	an	optimal	solution.	
+Since	there	are	200	integer	variables	in	this	problem,	including	X0,	S1,	B1,	S2	and	B2,	which	increase	the	difficulty	of	finding	an	optimal	solution.	However,	with	all	the	methods	we	learned,	we	are	not	able	to	find	an	optimal	solution.	
 Hence,	we	decide	to	search	for	the	primal	bound	for	the	maximization	by	finding	a	feasible	solution	which	can generate	an	objective	value	that	slightly	less	than the	objective	value	without	any	integer	constraint.
 
-Scenario	1	summary
+### Scenario	1	summary
 
 ![](https://user-images.githubusercontent.com/49817101/71846619-075ebc00-3099-11ea-9091-d3de0c55a6f4.PNG)
 
-Results for other remaining scenario can be found <a href="https://drive.google.com/file/d/1dqGzYwiCGk0TWsDnTSE9BfoVeLim1mZ6/view?usp=sharing">here</a> 
+Results for other remaining scenarios can be found <a href="https://drive.google.com/file/d/1dqGzYwiCGk0TWsDnTSE9BfoVeLim1mZ6/view?usp=sharing">here</a>
 
-![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/56478868-1d333f00-6480-11e9-9a84-612e31a5bc83.png)
+### Economic Conditions with Times Series 
+![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/71848315-295a3d80-309d-11ea-8a9b-2ec25da494cf.PNG)
+
+### Clustering Result 
+![](https://user-images.githubusercontent.com/49817101/71848355-48f16600-309d-11ea-9117-77ab983894fb.PNG)
+
