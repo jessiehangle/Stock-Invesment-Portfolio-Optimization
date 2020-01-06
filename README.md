@@ -39,6 +39,6 @@ Results for other remaining scenarios can be found <a href="https://drive.google
 ### Economic Conditions with Times Series 
 ![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/71848315-295a3d80-309d-11ea-8a9b-2ec25da494cf.PNG)
 
-### Clustering Result 
+### Clustering Results
 ![](https://user-images.githubusercontent.com/49817101/71848355-48f16600-309d-11ea-9117-77ab983894fb.PNG)
 
