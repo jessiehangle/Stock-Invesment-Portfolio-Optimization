@@ -20,8 +20,16 @@ To perform the analysis, we collect stock data of 40 companies from S&P list com
 ![Screen Shot 0031-04-21 at 21 49 01](https://user-images.githubusercontent.com/49817101/56478721-5919d480-647f-11e9-8f2a-5c7fdd7c27d9.png)
 
 ## Model Implementation 
+We choose R studio to implement our model. Stock price were generated from specific financial and trading libraries in R, quantmod and TTR. Code for stock price, clustering, and linear programming optimization can be found in our report. 
 
-![Screen Shot 0031-04-21 at 21 51 59](https://user-images.githubusercontent.com/49817101/56478806-d34a5900-647f-11e9-9a74-526e2c09d18c.png)
 ![Screen Shot 0031-04-21 at 21 52 14](https://user-images.githubusercontent.com/49817101/56478808-d5acb300-647f-11e9-94f0-6e6fc8b488e6.png)
-![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/56478868-1d333f00-6480-11e9-9a84-612e31a5bc83.png)
 
+The detail result for the first scenario is as bellow: 
+![Screen Shot 0031-04-21 at 21 51 59](https://user-images.githubusercontent.com/49817101/56478806-d34a5900-647f-11e9-9a74-526e2c09d18c.png)
+
+*	Since	there	are	200	integer	variables	in	this	problem,	including	X0,	S1,	B1,	S2	and	B2,	which	increase	the	difficulty	of	finding	an	optimal	solution.	However,	with	all	the	methods	we	learned,	we	are	not	able	to	find	an	optimal	solution.	
+Hence,	we	decide	to	search	for	the	primal	bound	for	the	maximization	by	finding	a	feasible	solution	which	can generate	an	objective	value	that	slightly	less	than the	objective	value	without	any	integer	constraint.
+
+Scenario	1	summary
+
+![Screen Shot 0031-04-21 at 21 54 30](https://user-images.githubusercontent.com/49817101/56478868-1d333f00-6480-11e9-9a84-612e31a5bc83.png)
